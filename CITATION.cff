@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Please cite the LOCUS Architecture Public Overview and consult the canonical LOCUS CORE."
+title: "LOCUS Architecture"
+authors:
+  - family-names: "Fermin Hernandez"
+    given-names: "Rafael"
+    orcid: "https://orcid.org/0009-0007-1831-8294"
+version: "1.0"
+date-released: "2026-07-23"
+doi: "10.5281/zenodo.21518833"
+repository-code: "https://github.com/RFerminH/LOCUS-Architecture"
+url: "https://doi.org/10.5281/zenodo.21518833"
+abstract: >-
+  LOCUS Architecture specifies the structural conditions under which
+  exocortical systems may execute delegated cognitive work without becoming
+  the origin of their own authority.
+preferred-citation:
+  type: report
+  title: "LOCUS Architecture: Public Overview of Governed Exocortical Delegation"
+  authors:
+    - family-names: "Fermin Hernandez"
+      given-names: "Rafael"
+      orcid: "https://orcid.org/0009-0007-1831-8294"
+  year: 2026
+  version: "1.0"
+  doi: "10.5281/zenodo.21518833"
+  url: "https://doi.org/10.5281/zenodo.21518833"
+  publisher:
+    name: "Zenodo"
+references:
+  - type: report
+    title: "LOCUS CORE: Human Executive Locus Architecture for Governed Exocortical Systems"
+    authors:
+      - family-names: "Fermin Hernandez"
+        given-names: "Rafael"
+        orcid: "https://orcid.org/0009-0007-1831-8294"
+    year: 2026
+    version: "5.1"
+    doi: "10.5281/zenodo.21420044"
+    url: "https://doi.org/10.5281/zenodo.21420044"
+    publisher:
+      name: "Zenodo"
